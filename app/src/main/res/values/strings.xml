@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wish birthday</string>
+    <string name="name_hint">Please Enter your name</string>
+    <string name="date_hint">yyyy-MM-dd</string>
+    <string name="submit">Submit</string>
+
+    <string name="birthdayMsg">Wish you Many Many Happy returns of the day of your</string>
+</resources>
